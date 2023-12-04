@@ -1,9 +1,8 @@
 package com.study.todoPartyTest.entity;
 
 import com.study.todopartytest.user.User;
-import java.security.SecureRandom;
 
-public class CommonTest {
+public interface CommonTest {
 
     String ANOTHER_PREFIX = "another-";
     Long TEST_USER_ID = 1L;
